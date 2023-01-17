@@ -10,6 +10,7 @@ target*
 bin/**
 tmp/**
 tmp/**/*
+test/*
 *.tmp
 *.bak
 *.swp
@@ -24,4 +25,3 @@ local.properties
 
 # Locally stored "Eclipse launch configurations"
 *.launch
-test/**
